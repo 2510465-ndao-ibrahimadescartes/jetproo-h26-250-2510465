@@ -29,7 +29,8 @@ namespace DemoMySQL
         public void EffectuerSelect()
         {
             MySqlDataReader? resultatRequete = null;
-            try
+            try  qkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkçueden
+                edukjnsskujnnnnnnnnnnn
             {
                 //Écrire la requête SQL qu'on veut exécuter:
                 string requete = "SELECT * FROM table";
